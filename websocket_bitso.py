@@ -1,7 +1,7 @@
 # websocket_bitso.py
 # An example to use the Bitso's websocket API to get the transactions of several books (pairs)
 #
-# Autor : Luis Armado Medina @larmedina
+# Autor : Luis Armando Medina Avitia @larmedina
 # E-mail: lamedina@gmail.com
 # Date  : 2019-06-16 
 #
